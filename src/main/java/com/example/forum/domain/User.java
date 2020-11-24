@@ -1,4 +1,4 @@
-package com.example.sweater.domain;
+package com.example.forum.domain;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

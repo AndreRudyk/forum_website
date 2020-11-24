@@ -1,6 +1,6 @@
-package com.example.sweater.service;
+package com.example.forum.service;
 
-import com.example.sweater.repos.UserRepo;
+import com.example.forum.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
